@@ -110,6 +110,7 @@ ul {
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    margin-bottom: 10px;
 }
 
 /* Portfolio */
@@ -140,6 +141,16 @@ ul {
   
   .blog a:hover i {
     margin-left: 10px;
+  }
+
+  .teams {
+      border: 2px solid #C1CDCD;
+      padding: 10px;
+  }
+
+  .blogarticle {
+      background-color: #E0EEEE;
+      padding: 10px;
   }
 
   /* About */
